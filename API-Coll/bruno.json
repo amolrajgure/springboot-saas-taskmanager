@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": " Spring Boot SaaS Task Manager",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
